@@ -1,0 +1,380 @@
+/*
+Dark Blue: #12232E
+
+Lighter Blue: #007CC7
+
+Lightest Blue: #4DA8DA
+
+Shadow of Dark Blue: #203647
+
+Shadow of Light Blue: #EEFBFB
+*/
+
+
+body {
+    color: #EEFBFB;
+    background-color: #12232E;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    min-height: 100vh;
+    flex-wrap: wrap;
+}
+
+header,
+footer,
+nav {
+    width: 100%;
+}
+
+/*HEADER*/
+
+header {
+    align-self: flex-start;
+    position: sticky;
+    background-color: #203647;
+    height: 100px;
+    min-width: fit-content;
+}
+
+.headr {
+    width: 1200px;
+
+}
+
+.logo {
+    margin-top: 30px;
+    margin-left: 20px;
+    float: left;
+}
+
+header form {
+    float: right;
+    margin-top: 25px;
+    margin-right: 10px;
+
+}
+
+header button {
+    height: 50px;
+    width: 100px;
+    border: none;
+    background-color: #007CC7;
+    color: #EEFBFB;
+    text-transform: capitalize;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+/*Header del login*/
+#headl {
+    height: 0;
+    background-color: #12232E;
+}
+
+/*NAV*/
+nav {
+    align-self: flex-start;
+    position: relative;
+    min-width: fit-content;
+    height: 40px;
+    background-color: #4DA8DA;
+}
+
+.navcontainer {
+    width: 1200px;
+    margin: auto;
+}
+
+#navm {
+    width: 700px;
+    margin: auto;
+    margin-top: -15px;
+}
+
+nav .navcontainer ul {
+    list-style-type: none;
+}
+
+nav .navcontainer ul a {
+    text-decoration: none;
+    display: block;
+    text-transform: capitalize;
+}
+
+nav .navcontainer ul li :hover {
+    color: #007CC7;
+}
+
+nav .navcontainer ul li {
+    float: left;
+    position: relative;
+    padding: 10px;
+    padding-left: 35px;
+    padding-right: 40px;
+}
+
+/* menu desplegable */
+
+.navcontainer ul ul {
+    display:none;
+    position:absolute;
+    top:100%;
+    left:0;
+    background:#4DA8DA;
+    padding:0;
+   }
+   
+   /* items del menu desplegable */
+   
+   .navcontainer ul ul li {
+    float:none;
+    width:150px
+   }
+   
+   /* enlaces de los items del menu desplegable */
+   
+   .navcontainer ul ul a {
+    line-height:120%;
+    padding:10px 15px;
+   }
+   
+   /* items del menu desplegable al pasar el ratón */
+   
+  .navcontainer ul li:hover > ul {
+    display:block;
+   }
+
+   .navcontainer ul li ul li ul{
+       margin-left: 225px;
+       margin-top: -70px;
+   }
+
+/*MAIN*/
+
+main {
+
+    background-color: #11334d;
+    min-height: 100vh;
+    min-width: fit-content;
+    font-size: 14pt;
+    margin: auto;
+
+}
+.imgproduct{
+    background-color: #FFFFFF;
+    width: 300px;
+    height: 225px;
+}
+
+.principal {
+    width: 1200px;
+    height: 800px;
+    margin: auto;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.producto {
+    float: left;
+    width: 300px;
+    height: 300px;
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 70px;
+}
+
+.nombpr{
+    color: #EEFBFB;
+    text-decoration: none;
+}
+
+.mainl {
+    background-color: #12232E;
+    min-height: initial;
+}
+
+fieldset {
+    border: 0;
+}
+
+#login {
+    margin: auto;
+    border: #EEFBFB;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 1px;
+    padding: 80px;
+    padding-top: 5px;
+    padding-bottom: 120px;
+    width: 200px;
+    height: 320px;
+}
+
+#register {
+    margin: auto;
+    border: #EEFBFB;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 1px;
+    padding: 90px;
+    padding-top: 5px;
+    padding-left: 50px;
+    width: 200px;
+    height: 350px;
+}
+
+#register .logo{
+    margin-bottom: 20px;
+    margin-left: 35px;
+
+}
+
+#login .logo{
+    margin-bottom: -40px;
+    margin-left: -10px;
+
+}
+
+#login legend,
+#register legend {
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+#login input,
+.registerinput {
+    display: block;
+    margin-top: 30px;
+}
+
+.registerinput,
+.registerbutton {
+    margin: auto;
+}
+
+#password {
+    margin-top: 20px;
+}
+
+.loginb,
+.registerbutton {
+    width: 100px;
+    height: 40px;
+    margin-left: 35px;
+    margin-top: 15px;
+    color: #EEFBFB;
+    background-color: #007CC7;
+    border: 0;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.loginb{
+    margin-top: 30px;
+}
+
+#register button {
+    margin-top: 30px;
+    margin-left: 55px;
+}
+
+#registrol {
+    width: 100px;
+    height: 45px;
+    margin-left: 50px;
+    margin-top: 10px;
+    color: #EEFBFB;
+    background-color: #4DA8DA;
+    border: 0;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+/*Prme*/
+
+#mainpr{
+    padding: 20px;
+    width: 1200px;
+    height: fit-content;
+}
+
+#primg {
+    margin: auto;
+    width: 659px;
+    height: 140px;
+}
+
+/*FOOTER*/
+
+footer {
+    background-color: #203647;
+    height: fit-content;
+    min-width: fit-content;
+    align-self: flex-end;
+}
+
+/*Clases*/
+
+#footercontainer {
+    width: 1200px;
+    height: fit-content;
+    margin: auto;
+}
+
+.fcontainer {
+    width: 700px;
+    height: fit-content;
+    margin: auto;
+    padding-top: 5px;
+
+}
+
+.footer-text {
+    float: left;
+    width: 400px;
+    padding: 10px;
+    height: 175px;
+    margin-top: -10px;
+    margin-bottom: 10px;
+    display: block;
+
+
+}
+
+.footer-text p {
+    margin-top: -10px;
+    float: left;
+    text-align: justify;
+    font-size: 11pt;
+    line-height: 16pt;
+
+}
+
+.footer-text q {
+    margin-left: 220px;
+
+}
+
+.foot-redes {
+    float: left;
+    width: 100px;
+    height: 175px;
+    display: block;
+    margin-left: 100px;
+}
+
+ul {
+    list-style: none;
+}
+
+ul a {
+    color: #EEFBFB;
+}
+
+.foot-redes li {
+    margin-bottom: 20px;
+    margin-left: -20px;
+}
