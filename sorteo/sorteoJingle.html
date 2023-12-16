@@ -1,35 +1,68 @@
 <!DOCTYPE html>
 <html lang="es">
-  <head>
-    <meta charset="utf-8" />
-    <link rel="stylesheet" href="../style.css" />
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap"
-      rel="stylesheet"
-    />
-    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
-    <meta http-equiv="Pragma" content="no-cache">
-    <meta http-equiv="Expires" content="0">
-    
-  </head>
 
-  <body>
-    <header>
-      <h1>Sorteo Navideño 2023</h1>
-    </header>
-    <main>
-      <section>
-        <article id="intro">
-          <h2>Juegos disponibles</h2>
-          <p>
-            Aqui estan todos los juegos que se van a sortear si todavia quieres
-            entrar en el sorteo aqui puedes
-          </p>
-        </article>
-        <article id="juegos">
-          <!-- <a class="linkJuego hidden" href="https://store.steampowered.com/app/1815570/Aces__Adventures/">
+<head>
+  <meta charset="utf-8" />
+  <link rel="stylesheet" href="../style.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap"
+    rel="stylesheet" />
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="0">
+
+  <script>
+    // Add a random parameter to the URL to force a fresh request
+    var preventCaching = function () {
+      var randomNumber = new Date().getTime();
+      var links = document.getElementsByTagName('link');
+      var scripts = document.getElementsByTagName('script');
+      var images = document.getElementsByTagName('img');
+
+      for (var i = 0; i < links.length; i++) {
+        var href = links[i].getAttribute('href');
+        if (href) {
+          links[i].setAttribute('href', href + '?v=' + randomNumber);
+        }
+      }
+
+      for (var i = 0; i < scripts.length; i++) {
+        var src = scripts[i].getAttribute('src');
+        if (src) {
+          scripts[i].setAttribute('src', src + '?v=' + randomNumber);
+        }
+      }
+
+      for (var i = 0; i < images.length; i++) {
+        var src = images[i].getAttribute('src');
+        if (src) {
+          images[i].setAttribute('src', src + '?v=' + randomNumber);
+        }
+      }
+    };
+
+    // Call the function to prevent caching
+    preventCaching();
+  </script>
+
+</head>
+
+<body>
+  <header>
+    <h1>Sorteo Navideño 2023</h1>
+  </header>
+  <main>
+    <section>
+      <article id="intro">
+        <h2>Juegos disponibles</h2>
+        <p>
+          Aqui estan todos los juegos que se van a sortear si todavia quieres
+          entrar en el sorteo aqui puedes
+        </p>
+      </article>
+      <article id="juegos">
+        <!-- <a class="linkJuego hidden" href="https://store.steampowered.com/app/1815570/Aces__Adventures/">
             <div class="imgJuego">
               <img src="media/Aces_and_Adventures.0e2a5608244712126d5d.jpg" alt="">
             </div>
@@ -39,10 +72,11 @@
               <p class="devJuego">Yogscast Games</p>
             </div>
           </a> -->
-          
-        </article>
-        <script src="loop-juegos.js" type="module"></script>
-      </section>
-    </main>
-  </body>
+
+      </article>
+      <script src="loop-juegos.js" type="module"></script>
+    </section>
+  </main>
+</body>
+
 </html>
