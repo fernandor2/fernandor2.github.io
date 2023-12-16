@@ -616,6 +616,14 @@
     "reclamado": "false"
   },
   {
+    "steam": "https://mcchampionship.com/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/mcc.79bd3fdba2fd274ffa0c.png",
+    "nombre": "MCC Island (Minecraft Java Edition): Jingle Jam Rewards pack!",
+    "desc": "Minecraft Minigame Pack",
+    "developer": "Noxcrew",
+    "reclamado": "false"
+  },
+  {
     "steam": "https://store.steampowered.com/app/2231950/Sifu_Deluxe_Cosmetic_Pack/",
     "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/SIFU.7e17f7423ea06cf62384.jpg",
     "nombre": "SIFU: Deluxe Cosmetic Pack",
