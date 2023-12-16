@@ -1,0 +1,126 @@
+/*Header*/
+body{
+    background-color: rgb(229, 229, 229);
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+header{
+    width:100%;
+    align-self: flex-start;
+    position: sticky;
+    background-color: #FFFFFF;
+    min-height: 50px;
+    align-items: center;
+    display: flex;
+}
+header h1{
+    text-align: center;
+    margin: auto;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 1px;
+}
+
+/*Main*/
+main{
+    width: fit-content;
+    margin:0px auto;
+    padding: 16px;
+    max-width: 1200px;
+}
+main #intro{
+    text-align: center;
+}
+main #intro p{  
+    font-size: 1.25rem; 
+}
+
+/*Juegos*/
+#juegos,.imgJuego,.overlayJuego{
+    display: flex;
+}
+.imgJuego,.overlayJuego{
+    position: absolute;
+    display: flex;
+}
+.imgJuego img,#juegos a{
+    height: 123px;
+    width: 264px;
+    border-radius: 6px;
+}
+.tituloJuego,.devJuego{
+    margin: 0;
+    font-weight: bold;
+}
+#juegos{
+    min-height: 200px;
+    padding-bottom: 1rem;
+    display: flex;
+    position: relative;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1.875rem;
+}
+.overlayJuego{
+    transition: opacity 0.5s ease 0s;
+    text-align: center;
+    background: rgb(226, 19, 80);
+    flex-direction: column;
+    inset: 0;
+    justify-content: center;
+    border-radius: 6px;
+    align-items: center;
+    opacity: 0;
+    color: white;
+
+}
+.linkJuego{
+    position: relative;
+}
+.descJuego{
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.linkJuego:hover .overlayJuego{
+ opacity: 1;
+}
+
+.linkJuego.hidden, .overlayJuego.hidden{
+        pointer-events: none;
+        cursor: default;
+        background: rgb(48, 48, 48,0.8);
+        opacity: 1;
+
+}
+@media (max-width: 640px){
+    #juegos{
+        gap: 1rem;
+    }
+}
+
+/* ===== Scrollbar CSS ===== */
+  /* Firefox */
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: #aaa6ab #e5e5e5;
+  }
+
+  /* Chrome, Edge, and Safari */
+  *::-webkit-scrollbar {
+    width: 7px;
+  }
+
+  *::-webkit-scrollbar-track {
+    background: #e5e5e5;
+  }
+
+  *::-webkit-scrollbar-thumb {
+    background-color: #aaa6ab;
+    border-radius: 5px;
+    border: 0px none #e5e5e5;
+  }
+

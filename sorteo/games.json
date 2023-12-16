@@ -1,0 +1,642 @@
+[
+  {
+    "steam": "https://store.steampowered.com/app/1815570/Aces__Adventures/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Aces_and_Adventures.0e2a5608244712126d5d.jpg",
+    "nombre": "Aces & Adventures",
+    "desc": "Deal Life and Death",
+    "developer": "Yogscast Games",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/508440/Totally_Accurate_Battle_Simulator/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/tabs.f337e0f1402374c7df51.jpg",
+    "nombre": "Totally Accurate Battle Simulator",
+    "desc": "Totally Accurate Battles",
+    "developer": "Landfall",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/322500/SUPERHOT/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/SUPERHOT.a9473710898315c7a1b4.jpg",
+    "nombre": "Superhot",
+    "desc": "Stylishly Freeze Time",
+    "developer": "SUPERHOT Team",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/1730590/The_Entropy_Centre/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/entropy.bb7be3fab1eca6f1c8c9.jpg",
+    "nombre": "The Entropy Centre",
+    "desc": "Do Some Science",
+    "developer": "Playstack",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/1303950/Toodee_and_Topdee/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Toodee.e76bda312cc679d2fd87.jpg",
+    "nombre": "Toodee and Topdee",
+    "desc": "Mind-melt with Friend",
+    "developer": "dietzribi",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/1055540/A_Short_Hike/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/a_short_hike.c3e7d34c8e09cc2dd447.jpg",
+    "nombre": "A Short Hike",
+    "desc": "Chill Cozy Climbing",
+    "developer": "adamgryu",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/1635450/Longvinter/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Longvinter.9aba30d747d74de88d28.jpg",
+    "nombre": "Longvinter",
+    "desc": "Cute Loot Craft Steal",
+    "developer": "Uuvana Studios",
+    "reclamado": "true"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/1060230/Sapiens/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Sapiens.50c1621f13f6a0ceed52.jpg",
+    "nombre": "Sapiens",
+    "desc": "Caveman Colony Sim",
+    "developer": "Majic Jungle",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/1347970/Patch_Quest/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Patch_Quest.c7b94f90bfe8be88a7f7.jpg",
+    "nombre": "Patch Quest",
+    "desc": "Monster Taming bullet-hell",
+    "developer": "Curve Digital",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/223830/Xenonauts/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Xenonauts.287ad109b3c5e08dc4c0.jpg",
+    "nombre": "Xenonauts",
+    "desc": "Tactical Alien Resistance",
+    "developer": "Goldhawk Interactive",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/1491340/Marble_World/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/MArble_world.0f134444ae5aa153926f.jpg",
+    "nombre": "Marble World",
+    "desc": "Marbles Marbles Marbles",
+    "developer": "Vector Interactive",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/1445790/Make_Way/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/make_way.a49e18f5995d56aebe9a.jpg",
+    "nombre": "Make Way",
+    "desc": "Chaotic Creative Racing",
+    "developer": "Secret Mode",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/704850/Thief_Simulator/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Thief_Simulator.d5430ee5a3f66aadfbaf.jpg",
+    "nombre": "Thief Simulator",
+    "desc": "Steal Things",
+    "developer": "PlayWay",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/743450/Monster_Prom/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Monster_Prom.bbdb30a1e887975ae985.jpg",
+    "nombre": "Monster Prom",
+    "desc": "Date a Monster",
+    "developer": "Beautiful Glitch",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/1808640/Astronimo/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Astronimo.89965de5d649f1a16f75.jpg",
+    "nombre": "Astronimo",
+    "desc": "Build Bots Assemble",
+    "developer": "Thunderful",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/1364100/Lacuna__A_SciFi_Noir_Adventure/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Lacuna.8782492aa3cb9fd1c044.jpg",
+    "nombre": "Lacuna",
+    "desc": "Pixel Noir Detective",
+    "developer": "Assemble Entertainment",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/427250/8Bit_Armies/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/8_bit_armies.2974b68a622ceea56ce9.jpg",
+    "nombre": "8-bit Armies",
+    "desc": "Blocky Pixel Strategy",
+    "developer": "Petroglyph",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/634410/A_Story_Beside/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/a_story_beside.3d0b5edbb417c62a5e05.jpg",
+    "nombre": "A Story Beside",
+    "desc": "Heartwarming Cozy Journey",
+    "developer": "Wayward Prophet",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/1479390/Alekon/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Alekon.8faf506bdc74a33a3da1.jpg",
+    "nombre": "Alekon",
+    "desc": "Photograph Cute Creatures",
+    "developer": "The Alekon Company",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/910630/Arcade_Spirits/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Arcade_Spirits.402ec1ee351d7bfff704.jpg",
+    "nombre": "Arcade Spirits",
+    "desc": "Retro-gaming Dating Sim",
+    "developer": "PQube",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/544610/Battlestar_Galactica_Deadlock/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Battlestar_Galactica_Deadlock.d630f213394a0e405c25.jpg",
+    "nombre": "Battlestar Galactica: Deadlock",
+    "desc": "Anti-Cylon Tactics",
+    "developer": "Slitherine Ltd",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/883360/Beyond_Blue/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Beyond_Blue.5d6483e1170f9e5cbde2.jpg",
+    "nombre": "Beyond Blue",
+    "desc": "Deep Sea Exploration",
+    "developer": "E-Line Media",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/789660/Buggos/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Buggos.4210e66d608af5963554.jpg",
+    "nombre": "Buggos",
+    "desc": "Awesome Auto-battler",
+    "developer": "Intrepid Marmot",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/1231460/Candy_Disaster__Tower_Defense/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Candy_Disaster.41ca54a36259b4a2a065.jpg",
+    "nombre": "Candy Disaster Tower Defense",
+    "desc": "Crazy Trap Combining",
+    "developer": "Erabit",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/593280/Cat_Quest/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Cat_Quest.8842148bd88dee3b072f.jpg",
+    "nombre": "Cat Quest",
+    "desc": "Adorable Cat RPG",
+    "developer": "Kepler Interactive",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/1000030/Cook_Serve_Delicious_3/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/cook.c3451835f0f2383af7e9.jpg",
+    "nombre": "Cook",
+    "desc": "Cooking Typing Management",
+    "developer": "Vertigo Gaming Inc",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/724680/Cosmos_Quickstop/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Cosmo_Quickstop.f05f625092e298b707d7.jpg",
+    "nombre": "Cosmo's Quickstop",
+    "desc": "Frantic Alien Cleanup",
+    "developer": "Big Sir Games",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/1166290/Death_and_Taxes/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Death_and_Taxes.ed0728958ac311be8a4e.jpg",
+    "nombre": "Death and Taxes",
+    "desc": "Grim Reaper's Office Job",
+    "developer": "Placeholder Gameworks",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/1552080/Deepest_Chamber_Resurrection/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Deepest_Chamber_Resurrection.b78fba5ec0d72e88f676.jpg",
+    "nombre": "Deepest Chamber: Resurrection",
+    "desc": "Gritty Card Battler",
+    "developer": "Balcony Softworks / Those Awesome Guys",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/755980/DEPLOYMENT/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/DEPLOYMENT.5c8d15e077e20cff4165.jpg",
+    "nombre": "DEPLOYMENT",
+    "desc": "Intense Competitive Arena",
+    "developer": "Whale Rock Games",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/761030/EARTHLOCK/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Earthlock.e1604b1a24a5028e43ce.jpg",
+    "nombre": "EARTHLOCK",
+    "desc": "Indie Retro JRPG",
+    "developer": "Snowcastle Games",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/1039360/Eyes_in_the_Dark/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Eyes_in_the_Dark.133c93e742c71e07e36d.jpg",
+    "nombre": "Eyes in the Dark",
+    "desc": "Unique Stylish Rogue-lite",
+    "developer": "Gearbox Publishing",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/1597720/Feed_All_Monsters/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Feed_All_Monsters.609e34f05b723de19fc2.jpg",
+    "nombre": "Feed All Monsters",
+    "desc": "Feed All Monsters",
+    "developer": "DU&I",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/1705140/Final_Profit_A_Shop_RPG/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Final_Profit.5616b8f75e3ee4b89b8d.jpg",
+    "nombre": "Final Profit: A Shop RPG",
+    "desc": "Item Shop Tycoon",
+    "developer": "Brent Arnold",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/1051960/Fly_Punch_Boom/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Fly_Punch_Boom.bc20fd7ee0acc0ac8a40.jpg",
+    "nombre": "Fly Punch Boom!",
+    "desc": "Insane Anime Fight",
+    "developer": "Jollypunch Games",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/928960/Godfall_Ultimate_Edition/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Godfall.745fffa31b3865f0dbc8.jpg",
+    "nombre": "Godfall Ultimate Edition",
+    "desc": "Godly Hack-and-Slash",
+    "developer": "Gearbox Publishing",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/1579020/Golfie/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Golfie.235f16a49c7c10abe4b7.jpg",
+    "nombre": "Golfie",
+    "desc": "Hole-in-one Yourself",
+    "developer": "Yogscast Games",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/661680/Growbot/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Growbot.085ec07f6ec18e8c3699.jpg",
+    "nombre": "Growbot",
+    "desc": "Ridiculously Adorable Puzzles",
+    "developer": "Application Systems Heidelberg",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/1531490/Harmonys_Odyssey/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Harmony_Odyssey.253978ca9a395e8665b8.jpg",
+    "nombre": "Harmony's Odyssey",
+    "desc": "Solve Cute Dioramas",
+    "developer": "Neverland Entertainment",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/2070000/Heavy_Burden/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Heavy_Burden.11d4b17bf1b3e0cf1f4d.jpg",
+    "nombre": "Heavy Burden",
+    "desc": "Atmospheric Mindful Puzzles",
+    "developer": "Whale Rock Games",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/244160/Homeworld_Remastered_Collection/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Homeworld_Remastered_Collection.6b3b364abae6fa39433b.jpg",
+    "nombre": "Homeworld Remastered Collection",
+    "desc": "Legendary Space Strategy",
+    "developer": "Gearbox Publishing",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/281610/Homeworld_Deserts_of_Kharak/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Homeworld_Deserts_of_Kharak.6ae8fe23a20740581e9b.jpg",
+    "nombre": "Homeworld: Deserts of Kharak",
+    "desc": "Classic Sci-fi RTS",
+    "developer": "Gearbox Publishing",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/1550730/Ikonei_Island_An_Earthlock_Adventure/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Ikonei_Island.bc5d93f459f635f30f80.jpg",
+    "nombre": "Ikonei Island",
+    "desc": "Cozy Island Together",
+    "developer": "Snowcastle Games",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/1535780/Imp_of_the_Sun/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Imp_of_the_Sun.e3ade9b20f2b97cd8679.jpg",
+    "nombre": "Imp of the Sun",
+    "desc": "Charming Incan Metroidvania",
+    "developer": "Fireshine Games",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/1838290/LOUD_My_Road_to_Fame/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/LOUD_My_Road_to_Fame.f389c82d75b9db698464.jpg",
+    "nombre": "LOUD: My Road to Fame",
+    "desc": "Roaring Rhythm Rocker",
+    "developer": "Hyperstrange",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/765810/Mars_Horizon/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Mars_Horizon.3b90a63477b1535efed1.jpg",
+    "nombre": "Mars Horizon",
+    "desc": "Space Programme Simulator",
+    "developer": "The Irregular Corporation",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/1568620/MetaPhysical/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/MetaPhysical.0d7b84dadca22f60a70c.jpg",
+    "nombre": "MetaPhysical",
+    "desc": "Supernatural Ghost Hunt",
+    "developer": "Paper Promises Programming",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/1709170/Paradise_Marsh/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Paradise_Marsh.5aed534a7bb27665302d.jpg",
+    "nombre": "Paradise Marsh",
+    "desc": "Brilliant Bug Catching",
+    "developer": "LazyEti",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/1599600/PlateUp/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/plateup.f595ad44d0fff9ded4df.png",
+    "nombre": "PlateUp! Cosmetic DLC",
+    "desc": "Look Good While Cooking",
+    "developer": "Yogscast Games",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/1348800/PROJECTIONS/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/PROJECTIONS.75a2df4646f4c275fc51.jpg",
+    "nombre": "Projections",
+    "desc": "Geometry Hack-and-Slash",
+    "developer": "Wolfgun",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/1008860/Repella_Fella/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Repella_Fella.1e74efe98837f54920bb.jpg",
+    "nombre": "Repella Fella",
+    "desc": "Dark Comedy Story",
+    "developer": "2 Left Thumbs",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/1475400/Run_Prop_Run/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Run.e63605cca5b50386e780.jpg",
+    "nombre": "Run Prop, Run! Complete",
+    "desc": "Bouncy Prop Hunt",
+    "developer": "PlayTogether Studio",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/435120/Rusty_Lake_Hotel/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Rusty_Lake_Hotel.213dfea93eb768ed45e4.jpg",
+    "nombre": "Rusty Lake: Hotel",
+    "desc": "Creepy Cool Puzzler",
+    "developer": "Rusty Lake Games",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/1248840/Sephonie/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Sephonie.c98ecdf2a924581e9118.jpg",
+    "nombre": "Sephonie",
+    "desc": "Inspired Classic Platformer",
+    "developer": "Melos Han-Tani, Marina Kittaka / Analgesic Productions",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/1058690/Signs_of_the_Sojourner/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Signs_of_the_Sojourner.2ea580e26cb76842f114.jpg",
+    "nombre": "Signs of the Sojourner",
+    "desc": "Creative Deckbuilding Journey",
+    "developer": "Echodog Games",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/684270/Silicon_Zeroes/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Silicon_Zeroes.80eab66740e07e6b9c39.jpg",
+    "nombre": "Silicon Zeroes",
+    "desc": "Indie Programming Puzzles",
+    "developer": "PleasingFungus Games",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/1325890/SILT/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/SILT.d28de5bb86732f8da459.jpg",
+    "nombre": "SILT",
+    "desc": "Moody Atmopheric Puzzles",
+    "developer": "Fireshine Games",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/725480/Slap_City/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Slap_City.8a2a033a6d97999bff5e.jpg",
+    "nombre": "Slap City",
+    "desc": "Seriously Fun Platforming",
+    "developer": "Ludosity",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/750290/Slice_of_Sea/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Slice_of_Sea.f3e4645400dcb8eb3a43.jpg",
+    "nombre": "Slice of Sea",
+    "desc": "Peaceful Hand-drawn Puzzles",
+    "developer": "Mateusz Skutnik",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/1144910/Space_Gladiators/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/space.fdc81cec72cd60c36ab4.jpg",
+    "nombre": "Space Gladiators",
+    "desc": "Be a Space Potato",
+    "developer": "Blobfish",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/1592110/Spirit_of_the_Island/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/spirit.7f51f70cbacdb72d1375.jpg",
+    "nombre": "Spirit of the Island",
+    "desc": "Co-op Farm with Friends",
+    "developer": "META Publishing",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/1691420/START_AGAIN_a_prologue/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/start_again.6404aee80af7d7ca2d75.jpg",
+    "nombre": "START AGAIN",
+    "desc": "Time-looping Brilliance",
+    "developer": "insertdisc5",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/1304420/Super_Cable_Boy/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Super_Cable_Boy.c128d4d046f9d6049ec4.jpg",
+    "nombre": "Super Cable Boy",
+    "desc": "Stylish Retro Platformer",
+    "developer": "Sørb",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/1053710/The_Red_Lantern/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/The_Red_Lantern.699e377d041bd1de2d5f.jpg",
+    "nombre": "The Red Lantern",
+    "desc": "Dog Sledding Adventures",
+    "developer": "Kepler Interactive",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/1651490/Tiny_Life/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Tiny_Life.e61be47ed7fed5f5f0f3.jpg",
+    "nombre": "Tiny Life",
+    "desc": "The Sims with Pixels",
+    "developer": "Top Hat Studios Inc",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/968550/Tinytopia/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Tinytopia.2ab3daa949e753186de8.jpg",
+    "nombre": "Tinytopia",
+    "desc": "Build Small Towns",
+    "developer": "Mastiff",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/602320/Train_Valley_2/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Train.8c85e9ec793e20868a46.jpg",
+    "nombre": "Train Valley 2",
+    "desc": "Trains Trains Trains",
+    "developer": "META Publishing",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/1211240/Trifox/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Trifox.6f3cea449dff999757c9.jpg",
+    "nombre": "Trifox",
+    "desc": "Stylish Colourful 3D Platformer",
+    "developer": "Big Sugar Games",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/1601970/Tunguska_The_Visitation/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Tunguska.88c1efc170e17ca65bd3.jpg",
+    "nombre": "Tunguska: The Visitation",
+    "desc": "Stealth Action RPG",
+    "developer": "Rotorist Workshop",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/1324350/Turbo_Golf_Racing/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/turbo_golf.167e443b0a0c32be8d1c.jpg",
+    "nombre": "Turbo Golf Racing",
+    "desc": "Racing... with Golf?!",
+    "developer": "Secret Mode",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/785850/Valthirian_Arc_Hero_School_Story/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Valthirian.0b965167895ec0874dc0.jpg",
+    "nombre": "Valthirian Arc",
+    "desc": "Hero School RPG",
+    "developer": "PQube",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/1608400/Vermillion__VR_Painting/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Vermillion.cd779f2c59d2aff59eba.jpg",
+    "nombre": "Vermillion VR",
+    "desc": "Painting (In VR)",
+    "developer": "Thomas van den Berge",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/395570/We_Are_The_Dwarves/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/war_are_the_dwarves.067491e804029c108c97.jpg",
+    "nombre": "We Are The Dwarves",
+    "desc": "Tactical Dwarf Adventure",
+    "developer": "Whale Rock Games",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/1868070/Whispers_in_the_West__Coop_Murder_Mystery/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/whispers.2590c7939f63946b5272.jpg",
+    "nombre": "Whispers in the West",
+    "desc": "Cowboy Murder Mystery",
+    "developer": "Infinite Whys",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/1080010/Witchtastic/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Witchtastic.bb32ec474173b995cce9.jpg",
+    "nombre": "Witchtastic",
+    "desc": "Multiplayer Spooky Cooking",
+    "developer": "Application Systems Heidelberg",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/1489110/Zapling_Bygone/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Zapling_Bygone.7527adf474db2fa05074.jpg",
+    "nombre": "Zapling Bygone",
+    "desc": "Smart Slime Metroidvania",
+    "developer": "9FingerGames",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/1440670/Zeepkist/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/Zeepkist.d4c45699d6b041490e52.jpg",
+    "nombre": "Zeepkist",
+    "desc": "Bouncy Downhill Driving",
+    "developer": "Steelpan Interactive",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://mcchampionship.com/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/mcc.79bd3fdba2fd274ffa0c.png",
+    "nombre": "MCC Island (Minecraft Java Edition): Jingle Jam Rewards pack!",
+    "desc": "Minecraft Minigame Pack",
+    "developer": "Noxcrew",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/2231950/Sifu_Deluxe_Cosmetic_Pack/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/SIFU.7e17f7423ea06cf62384.jpg",
+    "nombre": "SIFU: Deluxe Cosmetic Pack",
+    "desc": "SIFU: Deluxe Cosmetic Pack",
+    "developer": "Sloclap",
+    "reclamado": "false"
+  },
+  {
+    "steam": "https://store.steampowered.com/app/1616110/Glitch_Busters_Stuck_On_You/",
+    "imagen": "https://site-assets.tiltify.com/custom-yogscast/static/media/glitch.43cc5a4298b73c4dbfda.jpg",
+    "nombre": "glitch busters",
+    "desc": "Stuck on you",
+    "developer": "Toylogic Inc.",
+    "reclamado": "false"
+  }
+]
